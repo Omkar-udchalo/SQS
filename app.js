@@ -1,7 +1,7 @@
 const AWS = require("aws-sdk");
 // var fs = require("fs");
-const ID = "AKIAS4J3CSKBK3JEAD6O";
-const SECRET = "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";
+const ID = "";
+const SECRET = "";
 AWS.config.update({
     accessKeyId: ID,
     secretAccessKey: SECRET,
